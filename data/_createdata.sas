@@ -6,6 +6,6 @@
 /* DO NOT EDIT THE CODE BELOW                 */
 /**********************************************/
 
-%include "&path/&coursefolder/data/pg2v2.sas";
+%include "&path/PG2V2-main/data/pg2v2.sas";
 
 
